@@ -50,7 +50,7 @@ Built with the philosophy that "you can't optimize what you don't measure," the 
 ## 📂 Project Structure
 
 ```text
-ml-cli/
+CodeInsight-CLI/
 ├── src/
 │   ├── core/           # Business logic & Provider Orchestration
 │   ├── providers/      # Implementation for Cloud (Gemini) & Edge (Ollama)
@@ -74,8 +74,8 @@ ml-cli/
 ### Installation
 1. **Clone & Initialize**
    ```bash
-   git clone https://github.com/brianchanbc/ml-cli.git
-   cd ml-cli
+   git clone https://github.com/brianchanbc/CodeInsight-CLI.git
+   cd CodeInsight-CLI
    ```
 
 2. **Sync Dependencies**
